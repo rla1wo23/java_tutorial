@@ -1,1 +1,3 @@
 # java_tutorial
+
+I hate Java, but I have to force myself to learn what I hate to be a good engineer...
